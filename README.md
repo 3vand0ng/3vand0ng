@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi
+### Hi, erery one.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=3vand0ng&show_icons=true&theme=tokyonight)
+![Contribution stats](https://github-contribution-stats.vercel.app/api/?username=3vand0ng)
